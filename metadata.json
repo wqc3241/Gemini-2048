@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 2048",
+  "description": "A modern, AI-powered implementation of the classic 2048 puzzle game. Features smooth animations, responsive design, and an integrated Gemini AI assistant to suggest the best next moves.",
+  "requestFramePermissions": []
+}
